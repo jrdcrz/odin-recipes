@@ -1,0 +1,19 @@
+/*recipe-style.css*/
+
+* {
+    color: green;
+    background-color: lightgoldenrodyellow;
+    margin: 10px;
+}
+h1 {
+    color: green;
+    background-color: lightgoldenrodyellow;
+}
+img {
+    margin: 10px;
+    height: 300px;
+    width: 200px;
+}
+p {
+    
+}
